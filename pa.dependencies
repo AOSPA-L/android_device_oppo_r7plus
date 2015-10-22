@@ -1,0 +1,38 @@
+[
+    {
+        "remote":      "github",
+        "repository":  "CyanogenMod/android_external_mm-dash",
+        "target_path": "external/mm-dash",
+        "revision":    "cm-12.1"
+    },
+    {
+        "remote":      "github",
+        "repository":  "CyanogenMod/android_kernel_oppo_msm8939",
+        "target_path": "kernel/oppo/msm8939",
+        "revision":    "cm-12.1"
+    },
+    {
+        "remote":      "github",
+        "repository":  "AOSPA-L/android_device_oppo_msm8939-common",
+        "target_path": "device/oppo/msm8939-common",
+        "revision":    "lollipop-mr1"
+    },
+    {
+        "remote":      "github",
+        "repository":  "AOSPA-L/android_device_oppo_common",
+        "target_path": "device/oppo/common",
+        "revision":    "lollipop-mr1"
+    },
+    {
+        "remote":      "github",
+        "repository":  "CyanogenMod/android_device_qcom_common",
+        "target_path": "device/qcom/common",
+        "revision":    "cm-12.1"
+    },
+    {
+        "remote":      "blobs",
+        "repository":  "proprietary_vendor_oppo",
+        "target_path": "vendor/oppo",
+        "revision":    "cm-12.1"
+    }
+]
